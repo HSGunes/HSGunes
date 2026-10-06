@@ -8,7 +8,7 @@ I'm the captain of **1.5 Adana SGM Otonom**, one of the 1.5 Adana Technology Tea
 
 - 🥈 **TEKNOFEST 2026 Robotaxi Passenger Autonomous Vehicle Competition:** 2nd place in Türkiye (Original Vehicle category), plus the Honourable Mention and the Best Vehicle Design award. I was the team captain.
 - 🏁 **TEKNOFEST 2025 Robotaxi:** finalist, 11th of 217 teams in the preliminary round.
-- 🏁 **TEKNOFEST 2025:** finalist in Digital Technologies in Industry and Agricultural Technologies with 1.5 Adana Cyberova.
+- 🏁 **TEKNOFEST 2025:** competed in Unmanned Ground Vehicle and Digital Technologies in Industry with 1.5 Adana Cyberova, reaching the final in Digital Technologies in Industry.
 
 ### 🚗 What I work on
 
